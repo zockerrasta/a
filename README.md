@@ -1,7 +1,3 @@
-a
-=
-
-semangat
 touch README.md
 git init
 git add README.md
